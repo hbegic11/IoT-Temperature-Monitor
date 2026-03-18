@@ -39,4 +39,4 @@ This project enables real-time remote temperature monitoring using an **Arduino 
 2. Open bot.py and enter your Telegram Bot Token and Chat ID.
 3. Run the application:
   Bash
-    python bot.py
+   python bot.py
